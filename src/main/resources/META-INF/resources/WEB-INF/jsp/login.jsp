@@ -1,4 +1,4 @@
-<html>
+<%-- <html>
 	<head>
 		<title>Login Page</title>
 	</head>
@@ -14,4 +14,4 @@
 		</div>
 		
 	</body>
-</html>
+</html> --%>
